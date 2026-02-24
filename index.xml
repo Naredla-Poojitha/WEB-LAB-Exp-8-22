@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+
+<books>
+
+<book>
+<title>XML Basics</title>
+<author>Ravi Kumar</author>
+<isbn>9781234567890</isbn>
+<publisher>ABC Publications</publisher>
+<edition>1</edition>
+<price>350</price>
+</book>
+
+<book>
+<title>Web Technology</title>
+<author>Anita Sharma</author>
+<isbn>9789876543210</isbn>
+<publisher>XYZ Publishers</publisher>
+<edition>2</edition>
+<price>450</price>
+</book>
+
+<book>
+<title>Data Structures</title>
+<author>Rahul Mehta</author>
+<isbn>9781122334455</isbn>
+<publisher>Tech Books</publisher>
+<edition>3</edition>
+<price>500</price>
+</book>
+
+</books>
